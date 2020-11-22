@@ -6,7 +6,6 @@
 
 #include <stdio.h>
 #include <time.h>
-#include <math.h>
 
 
 time_t nowsec;      // time_t本质是整形，目的是存储time()获得的秒数
