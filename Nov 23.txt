@@ -1,0 +1,145 @@
+[Console API]
+https://docs.microsoft.com/zh-cn/windows/console/ecosystem-roadmap
+
+https://www.cnblogs.com/X-Jun/p/6908197.html
+
+https://zhidao.baidu.com/question/304673144230099084.html
+
+
+
+[C on http]
+
+Key : 用C语言编写http服务器
+https://blog.csdn.net/weixin_34153142/article/details/105311055
+
+https://www.jb51.net/article/174602.htm
+
+
+https://www.cnblogs.com/life2refuel/p/5277111.html
+https://www.jb51.net/article/47752.htm
+https://www.jb51.net/article/198917.htm
+
+https://www.jb51.net/article/64087.htm
+
+
+
+
+[Terminal, console]
+https://www.zhihu.com/question/20388511
+
+
+伪终端设备之我见; What is Pseudo Terminals?
+http://blog.chinaunix.net/uid-26675482-id-3153162.html
+
+
+在30多年前的电传打字机上聊天是怎样一种体验?
+https://www.bilibili.com/video/av15143931
+
+https://www.v2ex.com/t/482350
+https://printempw.github.io/the-difference-between-cli-terminal-shell-tty/#more
+
+
+https://www.cnblogs.com/baiyw/p/4226557.html
+
+https://devblogs.microsoft.com/commandline/windows-command-line-introducing-the-windows-pseudo-console-conpty/
+
+
+https://www.cnbeta.com/articles/tech/844579.htm
+https://www.cnbeta.com/articles/tech/844547.htm
+
+[MC]
+https://printempw.github.io/awesome-minecraft-shader/#more
+
+https://blog.jimmycai.com/p/new-computer/
+
+https://printempw.github.io/minecraft-yggdrasil-api-third-party-implementation/#more
+
+
+
+[Video Manipulation]
+https://printempw.github.io/use-ffmpeg-to-concat-flv-videos-downloaded-by-bilibili-client/#more
+
+
+
+[C++]
+
+https://printempw.github.io/vscode-c-cpp-configuration-for-acm-oj/#more
+
+https://printempw.github.io/add-notepad-plus-plus-to-context-menu/#more
+
+
+
+https://blog.csdn.net/zhangyandong16/article/details/20203227
+https://www.zhihu.com/question/386861966
+https://www.cnblogs.com/hrhguanli/p/4657495.html
+https://www.cnblogs.com/xueda120/p/3151354.html
+
+https://www.cnblogs.com/lanxuezaipiao/p/3539262.html
+
+
+https://blog.csdn.net/benpaobagzb/article/details/48442099
+
+https://blog.csdn.net/TODD911/article/details/25503037
+
+https://blog.csdn.net/weixin_33832340/article/details/86410873
+
+[Linux]
+https://printempw.github.io/zsh-prompt-theme-customization/#more
+https://printempw.github.io/wsl-guide/#more
+https://printempw.github.io/v2ray-ws-tls-cloudflare/#more
+
+
+
+
+
+[Regular]
+https://printempw.github.io/wechat-backup-in-sandboxie/#more
+
+
+telcomhistory.org
+museumofcommunications.org
+http://allitebooks.com/
+
+
+
+<li class="item-img-wrap c-span4 c-span-last">
+
+<a class="c-img c-img-radius-right-l c-img-radius-left-s" href="http://www.baidu.com/baidu.php?url=Ks0000jwGrA4rNDmXK3NhkiE1rFarzZjr57wU4JinIFZJPXqFje7yjSqXBL9lF4UzARkaqQro5mhMU51sS_3TQDkToQP1VE2URs0pnLFAaTJszfxyJFhBPEpMLqurFayMnRNeEj-8x_10d9CG82YF4uNNx23yORRToGCBuDWFP4LkjXSgqtVkFhQIn82tmOpEXU2ApLAR1AUzfZXEtzTnAkqQ-Hp.DY_igLRPg-ktRfwsNsTpSrla81klXz1MLsmhr5A1FYvNJN9h9mvyXPB6.U1Yk0ZDqk8ptCtyEkpt0IjLyktHTVJW5t6KGUHYknH6s0ATq0ZNG5fKspyfqn1T0mv-b5H00uA-b5H00Ugfqn1DLP6KBm1Yk0AqvUjY0TZ0qPj0YPj0kn1b0IZN15Hb3n1msnjmkrHRLPWm3nHbvnWb0ThNkIjYkPW0vnjbYPjDvnj6v0ZPGujYYmH-BPhcvPH-9m1R4mvnY0ZK85HD0ULnqP0KVIZ-suHYkPfK9uZw4TARqnH6L0A7YTA-b5H00mLKGujYknj0k0ZK_pyfqnHRvnHf1PjD4nj0knsKWpA-b5fK9TZKvUWY0IA735fKVIZnqn1DLP6KEmLKW5HDWnansc10Wnansc1nsnanWc1D8nj0sc1D8nj0scznWnansc1D8nj0Wcznsc1DWnansg10Wnansc10Wn10sc10Wnansc1D8nj0Wni3snj0Wni3snj0Wna3snj0Wna3snj0Wna3snj0Wni3snansc10Wnansc1D8nj0sg1Kxni3snjKxni3snj0Wnansc10Wc10Wn7tkQW0sn7tsg108nj0sg1D8nj0sc10Wnansg1Kxn7tsg100pyPY5HDdrHTznHbkP1n0uhFz5HD8nj0s0ZwznWY3n10z0APBIjYs0AF1IjYsg1Kxn7tsg1Kxn7tsg108njKxna3sn0KEIWYV0ZKY5HnzP1Tk0ZKETv-Ypyq85Hf0TAq1pgwGUv4xmv99UhI-gLF-mgPEUWYz0AqzpNqVIjY1nHTv0AdYgLKY5H00myPWIjY0uAPWujY0uAPzTjY0uANvIZ0q0ZP85fKsThqb5fKEmLKWgvk9m-q1IA7YIgnqn0KEmLKWgvP_pyPo5H0Wnansc10Wnansc1D8nj0sc1D8nj0s0AuYXgK-5HD0myw1U-q15H00myw1U-qGT1Y0mhd_5H00Uy7WPHY0UvDq0A7bmv_qn0K_IjYs0ZPW5H00Ih-buyqGujY0mhN1UjYs0A-1uAsqn0KEUAw_5H00TZFEuv7bIWYs0A71XHYs0A7bTZTqn1Ts0A7bTA6qnWfd0A-1TjdMXhc0pZP_u1Ys0jDqn00z5f015f0Y5f0d5H00PWYs0jTqn0035H00rHY0TZFEudqYT1YYnWR4PHb4Pj0YPHn4PHD4PWn40ZKzUvIxTZnqn1bzPjndPWckPHTYnjbsrH0vnzsknHTYnj6YPjf1nWDzPHT4rHnsPBsknH6vnjRvPW0dnWfkrHbLrHRz0ZKzUvIxIAbqn0KsThqMgLKG5fKsmvbqn0KWpybqnH6vnHDdn164PjTd0ZPJpjYzPHR0TMF15H00mMNYmyTqn0KBmL0qn0K8ugfqn0KzIADqn0KWThnqPjm4PjD" target="_blank" data-click="LOG_LINK" title="新版超变丨10倍爆率地图，要啥装备自己打！" data-title="新版超变丨10倍爆率地图，要啥装备自己打！"><img class="s-news-img" src="https://feed-image.baidu.com/0/pic/900b58bc155f20b8d3987611dbf7d882.jpg">
+
+
+<div class="s-img-mask c-img-radius-right-l c-img-radius-left-s"></div></a></li>
+
+
+
+C:\temp\GreenSW\tcc>tcc manipulatecmdwnd.c
+
+C:\temp\GreenSW\tcc>manipulatecmdwnd.exe
+
+
+你必须知道的495个C语言问题
+
+
+http://bdtg.37.com/s/1/3135/107640.html?uid=3302601
+
+
+GetStdHandle(STD_OUTPUT_HANDLE)
+CloseHandle(hOut);
+
+
+
+SetConsoleTextAttribute(hOut, 0x70)
+SetConsoleCursorPosition(hOut, curpos);
+
+
+控制台屏幕缓冲区信息结构体
+https://docs.microsoft.com/en-us/windows/console/console-screen-buffer-info-str
+
+
+https://docs.microsoft.com/en-us/windows/console/getconsolescreenbufferinfo
+
+
+
+Console API Functions
+
+
+
